@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_sdq_vtn_cz">
+    <title>How to travel to the port</title>
+    <shortdesc>Here are the steps to traveling to the port in Orlando, Florida to board the cruise.
+        You will drive to the port from Virginia Tech, which is a 10.5 hour drive.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Search directions from Virginia Tech to Port Canaveral in Orlando, Florida.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Leave at 6 a.m. on Saturday and drive through the night.<option>Alternate
+                        drivers throughout the car ride.</option></cmd>
+            </step>
+            <step>
+                <cmd>Arrive at the port and park in designated parking lot.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

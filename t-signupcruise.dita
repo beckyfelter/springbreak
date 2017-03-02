@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_lk4_rsn_cz">
+    <title>How to sign up for an excursion</title>
+    <shortdesc>We will be participating in the "Sail and Snorkel" excursion in Nassau, Bahamas.
+        Follow the steps to sign up for the excursion.</shortdesc>
+    <taskbody>
+        <context>
+            <p><image href="../../../Desktop/snorkeling.jpg" width="600" height="300"
+                    id="image_z24_5tn_cz"/></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the "Explore" tab on the Carnival homepage.</cmd>
+            </step>
+            <step>
+                <cmd>Select the "Shore Excursions" option.</cmd>
+            </step>
+            <step>
+                <cmd>Select "Browse by destination" and search Nassau.</cmd>
+            </step>
+            <step>
+                <cmd>Scroll through the available excursions to find the "Sail and Snorkel"
+                    excursion.</cmd>
+            </step>
+            <step>
+                <cmd>Select this excursion and follow the steps to register for March 5, 2017.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
