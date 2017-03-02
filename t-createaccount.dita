@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_is1_drn_cz">
+    <title>How to create an account on Carnival.com</title>
+    <shortdesc>These steps will guide you in registering for the correct cruise on the Carnival.com
+        website. </shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to Carnival.com</cmd>
+            </step>
+            <step>
+                <cmd>Click on "Create an Account."</cmd>
+            </step>
+            <step>
+                <cmd>Follow the steps to create your own account.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

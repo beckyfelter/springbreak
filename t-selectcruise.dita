@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_st5_yrn_cz">
+    <title>How to select a cruise</title>
+    <shortdesc>On the Carnival homepage, you will enter cruise specifics to find the correct cruise
+        to sign up for this spring break. </shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the "Sail to" button and select the "Bahamas" option.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the "Sail from" button and select the "Orlando" option.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the "Dates" button and select March 5 to March 8.</cmd>
+            </step>
+            <step>
+                <cmd>Click "Search cruises."</cmd>
+            </step>
+            <step>
+                <cmd>Follow the steps to register for the cruise.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
