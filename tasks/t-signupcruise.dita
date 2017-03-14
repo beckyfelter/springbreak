@@ -6,8 +6,8 @@
         Follow the steps to sign up for the excursion.</shortdesc>
     <taskbody>
         <context>
-            <p><image href="../../../Desktop/snorkeling.jpg" width="600" height="300"
-                    id="image_z24_5tn_cz"/></p>
+            <p><image href="../../../../Desktop/snorkeling-lg.jpg" width="500" height="300"
+                    id="image_zgx_hsw_fz"/></p>
         </context>
         <steps>
             <step>
