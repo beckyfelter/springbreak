@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title/>
+    <topicref href="concepts/c-cruise.dita"/>
+    <topicref href="tasks/t-createaccount.dita"/>
+    <topicref href="tasks/t-selectcruise.dita"/>
+    <topicref href="tasks/t-signupcruise.dita"/>
+    <topicref href="tasks/t-traveltoport.dita"/>
 </map>

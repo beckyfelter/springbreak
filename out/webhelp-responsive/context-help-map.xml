@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_a34_jpn_cz" path="concepts/c-cruise.html"/>
+   <appContext helpID="task_is1_drn_cz" path="tasks/t-createaccount.html"/>
+   <appContext helpID="task_st5_yrn_cz" path="tasks/t-selectcruise.html"/>
+   <appContext helpID="task_lk4_rsn_cz" path="tasks/t-signupcruise.html"/>
+   <appContext helpID="task_sdq_vtn_cz" path="tasks/t-traveltoport.html"/>
+</map>
