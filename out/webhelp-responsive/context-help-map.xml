@@ -5,4 +5,5 @@
    <appContext helpID="task_st5_yrn_cz" path="tasks/t-selectcruise.html"/>
    <appContext helpID="task_lk4_rsn_cz" path="tasks/t-signupcruise.html"/>
    <appContext helpID="task_sdq_vtn_cz" path="tasks/t-traveltoport.html"/>
+   <appContext helpID="trouble_prn_fqw_fz" path="tasks/troubleshooting.html"/>
 </map>
