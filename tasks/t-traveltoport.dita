@@ -10,12 +10,12 @@
         </context>
         <steps>
             <step>
-                <cmd>Search directions from Virginia Tech to Port Canaveral in Orlando, Florida.
-                </cmd>
+                <cmd>Search directions on Google Maps from Virginia Tech to Port Canaveral in
+                    Orlando, Florida. </cmd>
             </step>
             <step>
-                <cmd>Leave at 6 a.m. on Saturday and drive through the night.<option>Alternate
-                        drivers throughout the car ride.</option></cmd>
+                <cmd>Leave at 6 a.m. on Saturday for Port Canaveral.<option>Alternate drivers
+                        throughout the car ride.</option></cmd>
             </step>
             <step>
                 <cmd>Arrive at the port and park in designated parking lot.</cmd>
